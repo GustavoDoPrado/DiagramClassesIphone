@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
 public class Iphone{
-    private static boolean ligado = false;
-    int numero = 0;
+    private boolean ligado = false;
 
 
     public boolean ligar(){
